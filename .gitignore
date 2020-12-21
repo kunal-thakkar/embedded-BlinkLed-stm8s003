@@ -1,1 +1,5 @@
-/EWSTM8
+Debug/
+Release/
+*.hex
+
+
